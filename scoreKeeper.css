@@ -1,0 +1,28 @@
+body {
+	text-align: center;
+	margin-top: 180px;
+	background-color: lightgray;
+	font-family: "Open Sans Condensed";
+}
+#p1Box {
+	display: inline-block;
+	border: 2px solid red;
+	background-color: red;
+	padding: 1px 50px;
+}
+#p2Box {
+	display: inline-block;
+	margin-left: 100px;
+	background-color: blue;
+	padding: 1px 50px;
+}
+.hidden {
+	display: none;
+}
+#p1Congrat, #p2Congrat {
+	color: #0EAD00;
+	font-weight: 700;
+}
+.highlight {
+	color: #0EAD00;
+}
